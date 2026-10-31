@@ -6,6 +6,8 @@ services:
     env_file: .env
     ports:
       - "${APP_PORT:-3000}:3000"
+    volumes:
+      - ponglish_uploads:/app/uploads
     depends_on:
       db:
         condition: service_healthy
@@ -32,3 +34,4 @@ services:
       retries: 20
 volumes:
   ponglish_pgdata:
+  ponglish_uploads:
