@@ -1,0 +1,825 @@
+{
+  "taxRate": 14,
+  "currency": "EGP",
+  "items": [
+    {
+      "id": "appetizers-onion-rings",
+      "name": "Onion Rings",
+      "category": "Appetizers",
+      "description": "Crispy golden onion rings.",
+      "price": 120
+    },
+    {
+      "id": "appetizers-garlic-bread",
+      "name": "Garlic Bread",
+      "category": "Appetizers",
+      "description": "Toasted garlic bread.",
+      "price": 90
+    },
+    {
+      "id": "appetizers-garlic-bread-with-cheese",
+      "name": "Garlic Bread with Cheese",
+      "category": "Appetizers",
+      "description": "Garlic bread topped with melted cheese.",
+      "price": 120
+    },
+    {
+      "id": "appetizers-bruschetta",
+      "name": "Bruschetta",
+      "category": "Appetizers",
+      "description": "Toasted bread with fresh tomato topping.",
+      "price": 140
+    },
+    {
+      "id": "appetizers-fried-mozzarella",
+      "name": "Fried Mozzarella",
+      "category": "Appetizers",
+      "description": "Golden fried mozzarella.",
+      "price": 140
+    },
+    {
+      "id": "appetizers-sambousek-meat-or-cheese",
+      "name": "Sambousek Meat or Cheese",
+      "category": "Appetizers",
+      "description": "Sambousek filled with meat or cheese.",
+      "price": 130
+    },
+    {
+      "id": "appetizers-spring-rolls-chicken-with-vegetables",
+      "name": "Spring Rolls (Chicken with Vegetables)",
+      "category": "Appetizers",
+      "description": "Spring rolls filled with chicken and vegetables.",
+      "price": 180
+    },
+    {
+      "id": "appetizers-barbecue-chicken-wings",
+      "name": "Barbecue Chicken Wings",
+      "category": "Appetizers",
+      "description": "Chicken wings coated in barbecue sauce.",
+      "price": 180
+    },
+    {
+      "id": "appetizers-chicken-strips",
+      "name": "Chicken Strips",
+      "category": "Appetizers",
+      "description": "Crispy chicken strips.",
+      "price": 180
+    },
+    {
+      "id": "soups-creamy-mushroom-soup",
+      "name": "Creamy Mushroom Soup",
+      "category": "Soups",
+      "description": "Creamy mushroom soup.",
+      "price": 180
+    },
+    {
+      "id": "soups-creamy-chicken-mushroom-soup",
+      "name": "Creamy Chicken/Mushroom Soup",
+      "category": "Soups",
+      "description": "Creamy soup with chicken and mushrooms.",
+      "price": 230
+    },
+    {
+      "id": "soups-creamy-shrimp-soup",
+      "name": "Creamy Shrimp Soup",
+      "category": "Soups",
+      "description": "Creamy shrimp soup.",
+      "price": 295
+    },
+    {
+      "id": "soups-lentil-soup",
+      "name": "Lentil Soup",
+      "category": "Soups",
+      "description": "Lentil soup.",
+      "price": 120
+    },
+    {
+      "id": "soups-tomato-soup",
+      "name": "Tomato Soup",
+      "category": "Soups",
+      "description": "Tomato soup.",
+      "price": 140
+    },
+    {
+      "id": "soups-potato-soup-with-pork-bacon",
+      "name": "Potato Soup with Pork Bacon",
+      "category": "Soups",
+      "description": "Potato soup with pork bacon.",
+      "price": 195
+    },
+    {
+      "id": "soups-sea-food-soup",
+      "name": "Sea Food Soup",
+      "category": "Soups",
+      "description": "Seafood soup.",
+      "price": 280
+    },
+    {
+      "id": "soups-orzo-soup",
+      "name": "Orzo Soup",
+      "category": "Soups",
+      "description": "Orzo pasta soup.",
+      "price": 120
+    },
+    {
+      "id": "soups-molokhia-soup",
+      "name": "Molokhia Soup",
+      "category": "Soups",
+      "description": "Molokhia soup.",
+      "price": 120
+    },
+    {
+      "id": "burgers-beef-burger",
+      "name": "Beef Burger",
+      "category": "Burgers",
+      "description": "Beef burger.",
+      "price": 375
+    },
+    {
+      "id": "burgers-cheeseburger",
+      "name": "Cheeseburger",
+      "category": "Burgers",
+      "description": "Beef burger with cheese.",
+      "price": 395
+    },
+    {
+      "id": "burgers-chicken-burger",
+      "name": "Chicken Burger",
+      "category": "Burgers",
+      "description": "Chicken burger.",
+      "price": 375
+    },
+    {
+      "id": "burgers-ponglish-burger",
+      "name": "Ponglish Burger",
+      "category": "Burgers",
+      "description": "Ponglish signature burger.",
+      "price": 550
+    },
+    {
+      "id": "salads-green-salad",
+      "name": "Green Salad",
+      "category": "Salads",
+      "description": "Fresh green salad.",
+      "price": 90
+    },
+    {
+      "id": "salads-greek-salad",
+      "name": "Greek Salad",
+      "category": "Salads",
+      "description": "Greek-style salad.",
+      "price": 220
+    },
+    {
+      "id": "salads-chicken-caesar-salad",
+      "name": "Chicken Caesar Salad",
+      "category": "Salads",
+      "description": "Chicken Caesar salad.",
+      "price": 250
+    },
+    {
+      "id": "salads-coleslaw-salad",
+      "name": "Coleslaw Salad",
+      "category": "Salads",
+      "description": "Creamy coleslaw.",
+      "price": 90
+    },
+    {
+      "id": "salads-fattoush-salad",
+      "name": "Fattoush Salad",
+      "category": "Salads",
+      "description": "Fattoush salad.",
+      "price": 90
+    },
+    {
+      "id": "sandwiches-pane-sandwich",
+      "name": "Pane Sandwich",
+      "category": "Sandwiches",
+      "description": "Pane sandwich.",
+      "price": 270
+    },
+    {
+      "id": "sandwiches-chicken-shawarma",
+      "name": "Chicken Shawarma",
+      "category": "Sandwiches",
+      "description": "Chicken shawarma sandwich.",
+      "price": 270
+    },
+    {
+      "id": "sandwiches-beef-shawarma",
+      "name": "Beef Shawarma",
+      "category": "Sandwiches",
+      "description": "Beef shawarma sandwich.",
+      "price": 300
+    },
+    {
+      "id": "sandwiches-tuna-sandwich",
+      "name": "Tuna Sandwich",
+      "category": "Sandwiches",
+      "description": "Tuna sandwich.",
+      "price": 270
+    },
+    {
+      "id": "sandwiches-kofta-sandwich",
+      "name": "Kofta Sandwich",
+      "category": "Sandwiches",
+      "description": "Kofta sandwich.",
+      "price": 300
+    },
+    {
+      "id": "side-dishes-french-fries",
+      "name": "French Fries",
+      "category": "Side Dishes",
+      "description": "Golden French fries.",
+      "price": 90
+    },
+    {
+      "id": "side-dishes-chunky-chips",
+      "name": "Chunky Chips",
+      "category": "Side Dishes",
+      "description": "Chunky chips.",
+      "price": 90
+    },
+    {
+      "id": "side-dishes-creamy-mashed-potatoes",
+      "name": "Creamy Mashed Potatoes",
+      "category": "Side Dishes",
+      "description": "Creamy mashed potatoes.",
+      "price": 90
+    },
+    {
+      "id": "side-dishes-rice",
+      "name": "Rice",
+      "category": "Side Dishes",
+      "description": "Rice.",
+      "price": 90
+    },
+    {
+      "id": "side-dishes-grilled-vegetables",
+      "name": "Grilled Vegetables",
+      "category": "Side Dishes",
+      "description": "Grilled vegetables.",
+      "price": 90
+    },
+    {
+      "id": "side-dishes-nan-bread",
+      "name": "Nan Bread",
+      "category": "Side Dishes",
+      "description": "Nan bread.",
+      "price": 90
+    },
+    {
+      "id": "grill-menu-mixed-grill",
+      "name": "Mixed Grill",
+      "category": "Grill Menu",
+      "description": "Juicy kofta, tender chicken and beef, served with grilled vegetables, French fries and a sauce of your choice.",
+      "price": 645
+    },
+    {
+      "id": "grill-menu-grilled-fish-fillet",
+      "name": "Grilled Fish Fillet",
+      "category": "Grill Menu",
+      "description": "Freshly grilled fish with grilled vegetables and French fries.",
+      "price": 460
+    },
+    {
+      "id": "grill-menu-grilled-kofta-meal",
+      "name": "Grilled Kofta Meal",
+      "category": "Grill Menu",
+      "description": "Grilled kofta served with French fries, chunky chips or fragrant rice.",
+      "price": 595
+    },
+    {
+      "id": "grill-menu-shish-tawook-meal",
+      "name": "Shish Tawook Meal",
+      "category": "Grill Menu",
+      "description": "Yogurt-marinated chicken skewers with rice, tahini, Egyptian bread and salad.",
+      "price": 550
+    },
+    {
+      "id": "polish-cuisine-bigos",
+      "name": "Bigos",
+      "category": "Polish Cuisine",
+      "description": "Polish hunter's stew with sauerkraut, cabbage and tender meat, slow-cooked with spices. Served with mashed potatoes.",
+      "price": 460
+    },
+    {
+      "id": "polish-cuisine-kotlet-schabowy",
+      "name": "Kotlet schabowy",
+      "category": "Polish Cuisine",
+      "description": "Crispy, golden-breaded pork cutlet. Served with potatoes or fries and a side salad.",
+      "price": 490
+    },
+    {
+      "id": "polish-cuisine-kotlet-schabowy-z-pieczarkami-i-serem",
+      "name": "Kotlet schabowy z pieczarkami i serem",
+      "category": "Polish Cuisine",
+      "description": "Crispy pork cutlet topped with sautéed mushrooms and melted cheese. Served with potatoes or fries and a side salad.",
+      "price": 550
+    },
+    {
+      "id": "polish-cuisine-kotlet-schabowy-z-ananasem-i-serem",
+      "name": "Kotlet schabowy z ananasem i serem",
+      "category": "Polish Cuisine",
+      "description": "Crispy pork cutlet topped with pineapple and melted cheese. Served with potatoes or fries and a side salad.",
+      "price": 550
+    },
+    {
+      "id": "polish-cuisine-gulasz-wo-owy",
+      "name": "Gulasz wołowy",
+      "category": "Polish Cuisine",
+      "description": "Tender, slow-cooked beef with onions, red peppers and spices in a rich sauce. Served with mashed potatoes.",
+      "price": 420
+    },
+    {
+      "id": "polish-cuisine-go-bki-z-sosem-pomidorowym",
+      "name": "Gołąbki z sosem pomidorowym",
+      "category": "Polish Cuisine",
+      "description": "Cabbage rolls filled with seasoned minced meat and rice, served with tomato sauce and mashed potatoes.",
+      "price": 480
+    },
+    {
+      "id": "polish-cuisine-go-bki-z-sosem-grzybowym",
+      "name": "Gołąbki z sosem grzybowym",
+      "category": "Polish Cuisine",
+      "description": "Cabbage rolls filled with seasoned minced meat and rice, served with creamy mushroom sauce and mashed potatoes.",
+      "price": 490
+    },
+    {
+      "id": "polish-cuisine-kurczak-de-volaille",
+      "name": "Kurczak De Volaille",
+      "category": "Polish Cuisine",
+      "description": "Breaded chicken breast stuffed with herb butter, deep-fried until golden. Served with potatoes or fries and a side salad.",
+      "price": 450
+    },
+    {
+      "id": "breakfast-plain-omelette-with-toast-butter",
+      "name": "Plain Omelette with Toast & Butter",
+      "category": "Breakfast",
+      "description": "Three-egg omelette with golden toast and creamy butter.",
+      "price": 180
+    },
+    {
+      "id": "breakfast-cheese-mushroom-omelette",
+      "name": "Cheese & Mushroom Omelette",
+      "category": "Breakfast",
+      "description": "Three-egg omelette with sautéed mushrooms and melted cheese, served with two toasted bread and green salad.",
+      "price": 260
+    },
+    {
+      "id": "breakfast-spanish-omelette",
+      "name": "Spanish Omelette",
+      "category": "Breakfast",
+      "description": "Spanish-style omelette with peppers and onions, served with two toasted bread and green salad.",
+      "price": 210
+    },
+    {
+      "id": "breakfast-scrambled-eggs-with-toast",
+      "name": "Scrambled Eggs with Toast",
+      "category": "Breakfast",
+      "description": "Scrambled eggs with butter and two golden toasts.",
+      "price": 180
+    },
+    {
+      "id": "breakfast-mixed-cheese-toastie",
+      "name": "Mixed Cheese Toastie",
+      "category": "Breakfast",
+      "description": "Toasted sandwich with a mix of melted cheeses.",
+      "price": 220
+    },
+    {
+      "id": "breakfast-pork-bacon-sub-roll",
+      "name": "Pork Bacon Sub Roll",
+      "category": "Breakfast",
+      "description": "Crispy, smoky bacon sub roll.",
+      "price": 240
+    },
+    {
+      "id": "breakfast-blt-sandwich",
+      "name": "BLT Sandwich",
+      "category": "Breakfast",
+      "description": "Bacon, lettuce, tomato and mayonnaise sandwich.",
+      "price": 265
+    },
+    {
+      "id": "breakfast-egg-and-pork-bacon-sub-roll",
+      "name": "Egg and Pork Bacon Sub Roll",
+      "category": "Breakfast",
+      "description": "Smoky bacon and egg in a fresh sub roll.",
+      "price": 275
+    },
+    {
+      "id": "breakfast-eggs-benedict-with-pork-bacon",
+      "name": "Eggs Benedict with Pork Bacon",
+      "category": "Breakfast",
+      "description": "Poached eggs on toasted sourdough with pork bacon and creamy sauce, served with salad and fried potatoes.",
+      "price": 365
+    },
+    {
+      "id": "breakfast-eggs-benedict-with-smoked-salmon",
+      "name": "Eggs Benedict with Smoked Salmon",
+      "category": "Breakfast",
+      "description": "Poached eggs on sourdough with smoked salmon and hollandaise, served with salad and fried potatoes.",
+      "price": 395
+    },
+    {
+      "id": "main-meals-fish-chips-small",
+      "name": "Fish & Chips - Small",
+      "category": "Main Meals",
+      "description": "Crispy battered fish with mushy or garden peas and tartar sauce. Small portion.",
+      "price": 395
+    },
+    {
+      "id": "main-meals-fish-chips-large",
+      "name": "Fish & Chips - Large",
+      "category": "Main Meals",
+      "description": "Crispy battered fish with mushy or garden peas and tartar sauce. Large portion.",
+      "price": 495
+    },
+    {
+      "id": "main-meals-cottage-pie",
+      "name": "Cottage Pie",
+      "category": "Main Meals",
+      "description": "Minced beef and vegetables in rich gravy, topped with creamy mash.",
+      "price": 395
+    },
+    {
+      "id": "main-meals-homemade-pie",
+      "name": "Homemade Pie",
+      "category": "Main Meals",
+      "description": "Golden, flaky pastry filled with tender, slow-cooked meat and rich gravy. Served with peas and gravy.",
+      "price": 390
+    },
+    {
+      "id": "main-meals-grilled-chicken",
+      "name": "Grilled Chicken",
+      "category": "Main Meals",
+      "description": "Tender grilled chicken breast with vegetables.",
+      "price": 395
+    },
+    {
+      "id": "main-meals-chicken-curry",
+      "name": "Chicken Curry",
+      "category": "Main Meals",
+      "description": "Tender chicken in a rich, aromatic curry sauce.",
+      "price": 395
+    },
+    {
+      "id": "main-meals-beef-salsa",
+      "name": "Beef Salsa",
+      "category": "Main Meals",
+      "description": "Grilled beef fillet with roasted red pepper sauce.",
+      "price": 525
+    },
+    {
+      "id": "main-meals-chicken-piccata",
+      "name": "Chicken Piccata",
+      "category": "Main Meals",
+      "description": "Grilled chicken breast with creamy mushroom sauce.",
+      "price": 495
+    },
+    {
+      "id": "main-meals-chicken-cordon-bleu",
+      "name": "Chicken Cordon Bleu",
+      "category": "Main Meals",
+      "description": "Crispy chicken stuffed with pastrami and melted cheese.",
+      "price": 395
+    },
+    {
+      "id": "main-meals-lemon-chicken",
+      "name": "Lemon Chicken",
+      "category": "Main Meals",
+      "description": "Grilled chicken breast marinated with lemon and herbs.",
+      "price": 450
+    },
+    {
+      "id": "main-meals-sweet-sour-chicken",
+      "name": "Sweet & Sour Chicken",
+      "category": "Main Meals",
+      "description": "Chicken with peppers and pineapple in sweet and sour sauce.",
+      "price": 450
+    },
+    {
+      "id": "main-meals-chicken-schnitzel",
+      "name": "Chicken Schnitzel",
+      "category": "Main Meals",
+      "description": "Crispy golden-breaded chicken breast.",
+      "price": 395
+    },
+    {
+      "id": "main-meals-chicken-schnitzel-with-mushrooms-cheese",
+      "name": "Chicken Schnitzel with Mushrooms & Cheese",
+      "category": "Main Meals",
+      "description": "Crispy chicken topped with mushrooms and melted cheese.",
+      "price": 495
+    },
+    {
+      "id": "sauces-mushroom-sauce",
+      "name": "Mushroom Sauce",
+      "category": "Sauces",
+      "description": "Sauce accompaniment.",
+      "price": 95
+    },
+    {
+      "id": "sauces-garlic-sauce",
+      "name": "Garlic Sauce",
+      "category": "Sauces",
+      "description": "Sauce accompaniment.",
+      "price": 95
+    },
+    {
+      "id": "sauces-gravy",
+      "name": "Gravy",
+      "category": "Sauces",
+      "description": "Sauce accompaniment.",
+      "price": 95
+    },
+    {
+      "id": "pizza-pizza-margarita",
+      "name": "Pizza - Margarita",
+      "category": "Pizza",
+      "description": "Tomato sauce, mozzarella cheese and fresh basil.",
+      "price": 180
+    },
+    {
+      "id": "pizza-pizza-chicken",
+      "name": "Pizza - Chicken",
+      "category": "Pizza",
+      "description": "Tomato sauce, mozzarella cheese, chicken, onions and peppers.",
+      "price": 280
+    },
+    {
+      "id": "pizza-pizza-four-cheese",
+      "name": "Pizza - Four Cheese",
+      "category": "Pizza",
+      "description": "Tomato sauce, mozzarella, cheddar, parmesan and roquefort cheese.",
+      "price": 290
+    },
+    {
+      "id": "pizza-pizza-chicken-and-pineapple",
+      "name": "Pizza - Chicken and Pineapple",
+      "category": "Pizza",
+      "description": "Tomato sauce, mozzarella cheese, chicken and pineapple.",
+      "price": 290
+    },
+    {
+      "id": "pizza-pizza-tuna",
+      "name": "Pizza - Tuna",
+      "category": "Pizza",
+      "description": "Tomato sauce, mozzarella cheese, tuna, onions and olives.",
+      "price": 290
+    },
+    {
+      "id": "pizza-pizza-pepperoni",
+      "name": "Pizza - Pepperoni",
+      "category": "Pizza",
+      "description": "Tomato sauce, mozzarella cheese and pepperoni.",
+      "price": 290
+    },
+    {
+      "id": "pizza-pizza-sea-food",
+      "name": "Pizza - Sea Food",
+      "category": "Pizza",
+      "description": "Tomato sauce, mozzarella cheese and mixed seafood.",
+      "price": 380
+    },
+    {
+      "id": "pizza-pizza-spicy-chicken-tika",
+      "name": "Pizza - Spicy Chicken Tika",
+      "category": "Pizza",
+      "description": "Tomato sauce, mozzarella cheese, spicy chicken tika, onions and peppers.",
+      "price": 280
+    },
+    {
+      "id": "pizza-pizza-vegetarian",
+      "name": "Pizza - Vegetarian",
+      "category": "Pizza",
+      "description": "Tomato sauce, mozzarella cheese, mushrooms, peppers, onions, olives and tomatoes.",
+      "price": 240
+    },
+    {
+      "id": "pizza-pizza-meat-fest",
+      "name": "Pizza - Meat Fest",
+      "category": "Pizza",
+      "description": "Tomato sauce, mozzarella cheese, pepperoni, ground beef and grilled chicken.",
+      "price": 380
+    },
+    {
+      "id": "pizza-pizza-peri-peri-chicken",
+      "name": "Pizza - Peri Peri Chicken",
+      "category": "Pizza",
+      "description": "Tomato sauce, mozzarella cheese, peri peri chicken, onions and peppers.",
+      "price": 290
+    },
+    {
+      "id": "hot-drinks-espresso",
+      "name": "Espresso",
+      "category": "Hot Drinks",
+      "description": "Espresso.",
+      "price": 60
+    },
+    {
+      "id": "hot-drinks-double-espresso",
+      "name": "Double Espresso",
+      "category": "Hot Drinks",
+      "description": "Double Espresso.",
+      "price": 75
+    },
+    {
+      "id": "hot-drinks-cappuccino",
+      "name": "Cappuccino",
+      "category": "Hot Drinks",
+      "description": "Cappuccino.",
+      "price": 95
+    },
+    {
+      "id": "hot-drinks-latte",
+      "name": "Latte",
+      "category": "Hot Drinks",
+      "description": "Latte.",
+      "price": 90
+    },
+    {
+      "id": "hot-drinks-americano-black",
+      "name": "Americano Black",
+      "category": "Hot Drinks",
+      "description": "Americano Black.",
+      "price": 60
+    },
+    {
+      "id": "hot-drinks-americano-white",
+      "name": "Americano White",
+      "category": "Hot Drinks",
+      "description": "Americano White.",
+      "price": 75
+    },
+    {
+      "id": "hot-drinks-turkish-coffee",
+      "name": "Turkish Coffee",
+      "category": "Hot Drinks",
+      "description": "Turkish Coffee.",
+      "price": 50
+    },
+    {
+      "id": "hot-drinks-turkish-coffee-double",
+      "name": "Turkish Coffee - Double",
+      "category": "Hot Drinks",
+      "description": "Turkish Coffee - Double.",
+      "price": 65
+    },
+    {
+      "id": "hot-drinks-nescafe-black",
+      "name": "Nescafe Black",
+      "category": "Hot Drinks",
+      "description": "Nescafe Black.",
+      "price": 55
+    },
+    {
+      "id": "hot-drinks-nescafe-white",
+      "name": "Nescafe White",
+      "category": "Hot Drinks",
+      "description": "Nescafe White.",
+      "price": 65
+    },
+    {
+      "id": "hot-drinks-hot-chocolate",
+      "name": "Hot Chocolate",
+      "category": "Hot Drinks",
+      "description": "Hot Chocolate.",
+      "price": 90
+    },
+    {
+      "id": "hot-drinks-tea",
+      "name": "Tea",
+      "category": "Hot Drinks",
+      "description": "Tea.",
+      "price": 35
+    },
+    {
+      "id": "hot-drinks-green-tea",
+      "name": "Green Tea",
+      "category": "Hot Drinks",
+      "description": "Green Tea.",
+      "price": 40
+    },
+    {
+      "id": "hot-drinks-hibiscus-tea",
+      "name": "Hibiscus Tea",
+      "category": "Hot Drinks",
+      "description": "Hibiscus Tea.",
+      "price": 35
+    },
+    {
+      "id": "hot-drinks-english-tea",
+      "name": "English Tea",
+      "category": "Hot Drinks",
+      "description": "English Tea.",
+      "price": 70
+    },
+    {
+      "id": "iced-drinks-iced-coffee",
+      "name": "Iced Coffee",
+      "category": "Iced Drinks",
+      "description": "Iced Coffee.",
+      "price": 90
+    },
+    {
+      "id": "iced-drinks-caramel-iced-coffee",
+      "name": "Caramel Iced Coffee",
+      "category": "Iced Drinks",
+      "description": "Caramel Iced Coffee.",
+      "price": 95
+    },
+    {
+      "id": "iced-drinks-chocolate-iced-coffee",
+      "name": "Chocolate Iced Coffee",
+      "category": "Iced Drinks",
+      "description": "Chocolate Iced Coffee.",
+      "price": 95
+    },
+    {
+      "id": "iced-drinks-lotus-iced-coffee",
+      "name": "Lotus Iced Coffee",
+      "category": "Iced Drinks",
+      "description": "Lotus Iced Coffee.",
+      "price": 110
+    },
+    {
+      "id": "iced-drinks-caramel-frapp",
+      "name": "Caramel Frappé",
+      "category": "Iced Drinks",
+      "description": "Caramel Frappé.",
+      "price": 120
+    },
+    {
+      "id": "iced-drinks-chocolate-frapp",
+      "name": "Chocolate Frappé",
+      "category": "Iced Drinks",
+      "description": "Chocolate Frappé.",
+      "price": 120
+    },
+    {
+      "id": "iced-drinks-lotus-frapp",
+      "name": "Lotus Frappé",
+      "category": "Iced Drinks",
+      "description": "Lotus Frappé.",
+      "price": 120
+    },
+    {
+      "id": "iced-drinks-iced-tea",
+      "name": "Iced Tea",
+      "category": "Iced Drinks",
+      "description": "Iced Tea.",
+      "price": 70
+    },
+    {
+      "id": "fresh-juices-orange-juice",
+      "name": "Orange Juice",
+      "category": "Fresh Juices",
+      "description": "Fresh orange juice.",
+      "price": 90
+    },
+    {
+      "id": "fresh-juices-mango-juice",
+      "name": "Mango Juice",
+      "category": "Fresh Juices",
+      "description": "Fresh mango juice.",
+      "price": 90
+    },
+    {
+      "id": "fresh-juices-watermelon-juice",
+      "name": "Watermelon Juice",
+      "category": "Fresh Juices",
+      "description": "Fresh watermelon juice.",
+      "price": 90
+    },
+    {
+      "id": "fresh-juices-guava-juice",
+      "name": "Guava Juice",
+      "category": "Fresh Juices",
+      "description": "Fresh guava juice.",
+      "price": 90
+    },
+    {
+      "id": "fresh-juices-lemon-mint-juice",
+      "name": "Lemon/Mint Juice",
+      "category": "Fresh Juices",
+      "description": "Fresh lemon/mint juice.",
+      "price": 80
+    },
+    {
+      "id": "fresh-juices-lemon-juice",
+      "name": "Lemon Juice",
+      "category": "Fresh Juices",
+      "description": "Fresh lemon juice.",
+      "price": 70
+    },
+    {
+      "id": "fresh-juices-pineapple-juice",
+      "name": "Pineapple Juice",
+      "category": "Fresh Juices",
+      "description": "Fresh pineapple juice.",
+      "price": 90
+    }
+  ]
+}
